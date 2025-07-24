@@ -21,6 +21,7 @@ redirect_from:
 <sub> Please email me your CV, transcript, research statement, English test score.</sub>
 
 ### News!
+- <sub>Our paper "Guard-GBDT: Efficient Privacy-Preserving Approximated GBDT Training on Vertical Dataset" has been accepted by RAID'25! Congratulations to Anxao Song again!
 - <sub>Our paper "Private Learning for Vertical Decision Trees: A Secure, Accurate, and Fast Realization" has been accepted by TDSC! Congratulations to Anxao Song (my visitor from Xidian)!
 - <sub>Our paper "Privacy Risks of LLM-Empowered Recommender Systems: An Inversion Attack Perspective" has been accepted by Recsys‘2025. Congratulations to Yubo (my postgraduate student）and Min Tang!
 - <sub>Our paper "CHIFRAUD: A Long-term Web Text Dataset for Chinese Fraud Detection" obtained the Best Paper Award for Social Impact at COLING 2025! Big Congratulations to Min Tang!
