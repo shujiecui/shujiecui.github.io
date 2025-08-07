@@ -32,8 +32,8 @@ redirect_from:
 ### PhD Students
 - <sub>Xuan Chen (2024-), Monash University
 - <sub>Wenhao Wang (2024-), Monash University
-- <sub>Chenchen Tan (2023-), Monash University (Suzhou campus)
-- <sub>Xinghao Li (2023-), Monash University (Suzhou campus)
+- <sub>Chenchen Tan (2023-), Monash University
+- <sub>Xinghao Li (2023-), Monash University
 - <sub>Dongkun Hou (2023-), Monash University
 - <sub>Min Tang (2022-), Monash University Malaysia (co-supervised with [Dr. Zhe Jin](https://www.monash.edu.my/it/staff/academic/dr-jin-zhe) and [Dr. Liang Shiuan-Ni](https://www.monash.edu.my/engineering/about-us/all-staff/dr.-liang-shiuan-ni))
 - <sub>Dandan Yuan (2019-2023), The Univerisity of Auckland (co-supervised with [Prof Giovanni Russello](https://www.linkedin.com/in/giovanni-russello-218ab614/?originalSubdomain=nz))
