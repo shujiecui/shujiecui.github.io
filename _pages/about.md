@@ -17,10 +17,11 @@ redirect_from:
 <sub>My main research interests include applied cryptography, data protection in various systems, trusted execution environments, side-channel attacks, and privacy-preserving machine learning.
 
 
-**<font color="red">I am always looking for self-motivated students.</font>**
-<sub> Please email me your CV, transcript, research statement, English test score.</sub>
+**<font color="red">I am always looking for self-motivated PhD students and long-term visitors.</font>**
+<sub> Please email me your CV, transcript, research statement, and English test score.</sub>
 
 ### News!
+- <sub>Our paper "XGT: Fast and Secure Decision Tree Training and Inference on GPUs" has been accepted by TDSC! Congratulations to Qifan Wang!
 - <sub>Our paper "Guard-GBDT: Efficient Privacy-Preserving Approximated GBDT Training on Vertical Dataset" has been accepted by RAID'25! Congratulations to Anxao Song again!
 - <sub>Our paper "Private Learning for Vertical Decision Trees: A Secure, Accurate, and Fast Realization" has been accepted by TDSC! Congratulations to Anxao Song (my visitor from Xidian)!
 - <sub>Our paper "Privacy Risks of LLM-Empowered Recommender Systems: An Inversion Attack Perspective" has been accepted by Recsys‘2025. Congratulations to Yubo (my postgraduate student）and Min Tang!
