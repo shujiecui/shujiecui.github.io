@@ -21,6 +21,7 @@ redirect_from:
 <sub> Please email me your CV, transcript, research statement, and English test score.</sub>
 
 ### News!
+- <sub>Our paper "Wisdom is Knowing What not to Say: Hallucination-Free LLMs Unlearning via Attention Shifting"! Congratulations to Chenchen Tan!
 - <sub>Our paper "XGT: Fast and Secure Decision Tree Training and Inference on GPUs" has been accepted by TDSC! Congratulations to Qifan Wang!
 - <sub>Our paper "Guard-GBDT: Efficient Privacy-Preserving Approximated GBDT Training on Vertical Dataset" has been accepted by RAID'25! Congratulations to Anxao Song again!
 - <sub>Our paper "Private Learning for Vertical Decision Trees: A Secure, Accurate, and Fast Realization" has been accepted by TDSC! Congratulations to Anxao Song (my visitor from Xidian)!
