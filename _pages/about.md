@@ -32,7 +32,7 @@ redirect_from:
 
 ### PhD Students
 - <sub>Huu Nguyen (2026-), Monash University
-- <sub>Yubo (Chris) Wang (2026-), Monash University (co-supervised with [Dr.Teresa Wang](https://research.monash.edu/en/persons/teresa-wang/))
+- <sub>Yubo (Chris) Wang (2026-), Monash University (co-supervised with [Dr. Teresa Wang](https://research.monash.edu/en/persons/teresa-wang/))
 - <sub>Xuan Chen (2024-), Monash University
 - <sub>Wenhao Wang (2024-), Monash University
 - <sub>Chenchen Tan (2023-), Monash University
@@ -45,10 +45,8 @@ redirect_from:
 </sub> 
   
 ### Teaching
-- <sub>2024 S1, Lecturer & CE, FIT5163-Information & Computer Security
-- <sub>2023 S1&S2, Lecturer & CE, FIT5163-Information & Computer Security
-- <sub>2022 S1, Lecturer, FIT5163-Information & Computer Security
-- <sub>2021 S1, Lecturer, FIT5163-Information & Computer Security
+- <sub>Lecturer & CE, FIT5163-Introductionn to Cryptography for Cynersecurity
+
 
 
 
