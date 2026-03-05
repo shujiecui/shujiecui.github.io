@@ -32,7 +32,7 @@ redirect_from:
 
 ### PhD Students
 - <sub>Huu Nguyen (2026-), Monash University
-- <sub>Yubo (Chris) Wang (2026-), Monash University (co-supervised with Dr.Teresa Wang)
+- <sub>Yubo (Chris) Wang (2026-), Monash University (co-supervised with [Dr.Teresa Wang](https://research.monash.edu/en/persons/teresa-wang/))
 - <sub>Xuan Chen (2024-), Monash University
 - <sub>Wenhao Wang (2024-), Monash University
 - <sub>Chenchen Tan (2023-), Monash University
