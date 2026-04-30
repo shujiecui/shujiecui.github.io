@@ -21,6 +21,8 @@ redirect_from:
 <sub> Please email me your CV, transcript, research statement, and English test score.</sub>
 
 ### News!
+- <sub>Our paper "Less is More: Geometric Unlearning for LLMs with Minimal Data Disclosure" has been accepted by ICML 2026! Congratulations to Chenchen Tan!
+- <sub>Our paper "GumSwap: Griefing-Free Universal Multi-Party Atomic Swaps" has been accepted by ICDCS 2026! Congratulations to Dongkun Hou!
 - <sub>Our paper "Wisdom is Knowing What not to Say: Hallucination-Free LLMs Unlearning via Attention Shifting" has been accepted by NeurIPS 2025! Congratulations to Chenchen Tan!
 - <sub>Our paper "XGT: Fast and Secure Decision Tree Training and Inference on GPUs" has been accepted by TDSC! Congratulations to Qifan Wang!
 - <sub>Our paper "Guard-GBDT: Efficient Privacy-Preserving Approximated GBDT Training on Vertical Dataset" has been accepted by RAID'25! Congratulations to Anxao Song again!
