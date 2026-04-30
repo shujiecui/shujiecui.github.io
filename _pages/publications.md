@@ -9,6 +9,13 @@ author_profile: true
 
 The full list can be found from my [google scholar](https://scholar.google.com/citations?user=EYVNbx8AAAAJ&hl=en) or [DBLP](https://dblp.org/pid/144/6258.html)
 
+- <sub>[TrustCom/BigDataSE 2024]
+
+- <sub>[TrustCom/BigDataSE 2024] 
+- <sub>[TrustCom/BigDataSE 2024] 
+
+   - <sub>[COLING 2025] Min Tang, Lixin Zou, Zhe Jin, ShuJie Cui, Shiuan Ni Liang, and Weiqing Wang. 2025. CHIFRAUD: A Long-term Web Text Dataset for Chinese Fraud Detection. In Proceedings of the 31st International Conference on Computational Linguistics, pages 5962–5974, Abu Dhabi, UAE. Association for Computational Linguistics.
+
 - <sub>[TrustCom/BigDataSE 2024] **GTree: GPU-Friendly Privacy-preserving Decision Tree Training and Inference** <br/>
    Qifan Wang, Shujie Cui, Lei Zhou, Ye Dong, Jianli Bai,  Yun Sing Koh, Giovanni Russello<br/>
    The 23rd IEEE International Conference On Trust, Security And Privacy In Computing And Communications/12th IEEE International Conference On Big Data Science And Engineering <br/>
