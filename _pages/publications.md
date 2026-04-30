@@ -9,19 +9,31 @@ author_profile: true
 
 The full list can be found from my [google scholar](https://scholar.google.com/citations?user=EYVNbx8AAAAJ&hl=en) or [DBLP](https://dblp.org/pid/144/6258.html)
 
-- <sub>[TrustCom/BigDataSE 2024]
+- <sub>[IPM 2026] Min Tang, Lixin Zou, Shujie Cui, Weiqing Wang, Zhe Jin, Chengliang Li, Shiuan-Ni Liang. "Q-value guided Text-to-SQL generation: Structured reasoning meets efficient inference exploration", Information Processing & Management,
+Volume 63, Issue 4, 2026, 104607, ISSN 0306-4573, https://doi.org/10.1016/j.ipm.2025.104607.
+  
+- <sub>[TETCI 2026] Xinghao Li, Chi Liu, Youyang Qu, Shujie Cui, Cunjian Chen, Xingliang Yuan, Zongyuan Ge, and Longxiang Gao "Navigating Unlearning in Medical AI: A Framework for Diabetic Retinopathy Classification," in IEEE Transactions on Emerging Topics in Computational Intelligence, doi: 10.1109/TETCI.2025.3641713.
+  
+- <sub>[TIFS 2025] Wenhao Wang, Shujie Cui, Hui Cui, Jiabao Qiu, Shuguang Yuan, Xiaojie Zhu, Jing Yu, Chi Chen, and Xun Yi. "An Unbiased and Robust Privacy-Preserving Fingerprinting Scheme for Relational Databases," in IEEE Transactions on Information Forensics and Security, vol. 21, pp. 135-150, 2026, doi: 10.1109/TIFS.2025.3642579.
+  
+- <sub>[RecSys 2025] Yubo Wang, Min Tang, Nuo Shen, Shujie Cui, and Weiqing Wang. 2025. Privacy Risks of LLM-Empowered Recommender Systems: An Inversion Attack Perspective. In Proceedings of the Nineteenth ACM Conference on Recommender Systems (RecSys '25). Association for Computing Machinery, New York, NY, USA, 812–821. https://doi.org/10.1145/3705328.3748158
+  
+- <sub>[NeurIPS 2025] Tan, Chenchen, Youyang Qu, Xinghao Li, Hui Zhang, Shujie Cui, Cunjian Chen, and Longxiang Gao. "Wisdom is Knowing What not to Say: Hallucination-Free LLMs Unlearning via Attention Shifting." arXiv preprint arXiv:2510.17210 (2025).
 
-- <sub>[TrustCom/BigDataSE 2024] 
-- <sub>[TrustCom/BigDataSE 2024] 
+- <sub>[TDSC 2025] Qifan Wang, Shujie Cui, Lei Zhou, Ye Dong, Jianli Bai, Yun Sing Koh, and Giovanni Russello. "XGT: Fast and Secure Decision Tree Training and Inference on GPUs," in IEEE Transactions on Dependable and Secure Computing, vol. 22, no. 6, pp. 7479-7494, Nov.-Dec. 2025, doi: 10.1109/TDSC.2025.3597394.
 
-   - <sub>[COLING 2025] Min Tang, Lixin Zou, Zhe Jin, ShuJie Cui, Shiuan Ni Liang, and Weiqing Wang. 2025. CHIFRAUD: A Long-term Web Text Dataset for Chinese Fraud Detection. In Proceedings of the 31st International Conference on Computational Linguistics, pages 5962–5974, Abu Dhabi, UAE. Association for Computational Linguistics.
+- <sub>[RAID 2025] Anxiao Song, Shujie Cui, Jianli Bai, Ke Cheng, Yulong Shen, and Giovanni Russello. "Guard-GBDT: Efficient Privacy-Preserving Approximated GBDT Training on Vertical Dataset," 2025 28th International Symposium on Research in Attacks, Intrusions and Defenses (RAID), Gold Coast, Australia, 2025, pp. 741-756, doi: 10.1109/RAID67961.2025.00018.
+  
+- <sub>[TDSC 2025] Anxiao Song, Ke Cheng, Jiaxuan Fu, Shujie Cui,  Tao Zhang, and Zhao Chang. "Private Learning for Vertical Decision Trees: A Secure, Accurate, and Fast Realization," in IEEE Transactions on Dependable and Secure Computing, vol. 22, no. 6, pp. 6088-6103, Nov.-Dec. 2025, doi: 10.1109/TDSC.2025.3579742.
+
+- <sub>[COLING 2025] Min Tang, Lixin Zou, Zhe Jin, ShuJie Cui, Shiuan Ni Liang, and Weiqing Wang. 2025. CHIFRAUD: A Long-term Web Text Dataset for Chinese Fraud Detection. In Proceedings of the 31st International Conference on Computational Linguistics, pages 5962–5974, Abu Dhabi, UAE. Association for Computational Linguistics.
 
 - <sub>[TrustCom/BigDataSE 2024] **GTree: GPU-Friendly Privacy-preserving Decision Tree Training and Inference** <br/>
    Qifan Wang, Shujie Cui, Lei Zhou, Ye Dong, Jianli Bai,  Yun Sing Koh, Giovanni Russello<br/>
    The 23rd IEEE International Conference On Trust, Security And Privacy In Computing And Communications/12th IEEE International Conference On Big Data Science And Engineering <br/>
    [pdf](https://arxiv.org/pdf/2305.00645)
   
-- <sub>[IPM] **Sequential Recommendation by Reprogramming Pretrained Transformer** <br/>
+- <sub>[IPM 2025] **Sequential Recommendation by Reprogramming Pretrained Transformer** <br/>
    Min Tang, Lixin Zou, Shujie Cui, Zhe Jin, Shiuan-ni Liang, Chengliang Li<br/>
    Information Processing and Management<br/>
    [pdf](https://dl.acm.org/doi/abs/10.1007/978-3-031-70381-2_18)
