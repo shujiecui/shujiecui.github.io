@@ -9,6 +9,8 @@ author_profile: true
 
 The full list can be found from my [google scholar](https://scholar.google.com/citations?user=EYVNbx8AAAAJ&hl=en) or [DBLP](https://dblp.org/pid/144/6258.html)
 
+- <sub>[ICML 2026] Chenchen Tan, Xinghao Li, Shujie Cui, Youyang Qu, Cunjian Chen, Longxiang Gao. "Less is More: Geometric Unlearning for LLMs with Minimal Data Disclosure". https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EYVNbx8AAAAJ&sortby=pubdate&citation_for_view=EYVNbx8AAAAJ:e5wmG9Sq2KIC
+
 - <sub>[IPM 2026] Min Tang, Lixin Zou, Shujie Cui, Weiqing Wang, Zhe Jin, Chengliang Li, Shiuan-Ni Liang. "Q-value guided Text-to-SQL generation: Structured reasoning meets efficient inference exploration", Information Processing & Management,
 Volume 63, Issue 4, 2026, 104607, ISSN 0306-4573, https://doi.org/10.1016/j.ipm.2025.104607.
   
