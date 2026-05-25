@@ -26,7 +26,7 @@ redirect_from:
 - <sub>Our paper "GumSwap: Griefing-Free Universal Multi-Party Atomic Swaps" has been accepted by ICDCS 2026! Congratulations to Dongkun Hou!
 
 
-### PhD Students
+### Current PhD Students
 - <sub>Huu Nguyen (2026-), Monash University
 - <sub>Yubo (Chris) Wang (2026-), Monash University (co-supervised with [Dr. Teresa Wang](https://research.monash.edu/en/persons/teresa-wang/))
 - <sub>Xuan Chen (2024-), Monash University
@@ -34,6 +34,8 @@ redirect_from:
 - <sub>Chenchen Tan (2023-), Monash University
 - <sub>Xinghao Li (2023-), Monash University
 - <sub>Dongkun Hou (2023-), Monash University
+
+### Graduated PhD Students
 - <sub>Min Tang (2022-2025), Monash University Malaysia (co-supervised with [Dr. Zhe Jin](https://www.monash.edu.my/it/staff/academic/dr-jin-zhe) and [Dr. Liang Shiuan-Ni](https://www.monash.edu.my/engineering/about-us/all-staff/dr.-liang-shiuan-ni))
 - <sub>[Dandan Yuan](https://www.cwi.nl/en/people/dandan-yuan/) (2019-2023), The University of Auckland (co-supervised with [Prof Giovanni Russello](https://www.linkedin.com/in/giovanni-russello-218ab614/?originalSubdomain=nz))
 - <sub>[Qifan Wang](https://www.durham.ac.uk/staff/qifan-wang2/) (2019-2023), The University of Auckland (co-supervised with Giovanni Russello)
