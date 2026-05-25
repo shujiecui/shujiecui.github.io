@@ -39,7 +39,7 @@ redirect_from:
 - <sub>Min Tang (2022-2025), Post-Doc at Hong Kong
 - <sub>[Dandan Yuan](https://www.cwi.nl/en/people/dandan-yuan/) (2019-2023), Scientist staff at CWI, Neitherland
 - <sub>[Qifan Wang](https://www.durham.ac.uk/staff/qifan-wang2/) (2019-2023), Post-Doc at Durham University, UK
-- <sub>[Jianli Bai](https://scholar.google.com/citations?user=Vrd-ux8AAAAJ&hl=en) (2019-2023)
+- <sub>[Jianli Bai](https://scholar.google.com/citations?user=Vrd-ux8AAAAJ&hl=en) (2019-2023), Post-doc at SMU, Singapore
 
 ### Visitors
 - <sub>[Hui Zhang](https://beauty9882.github.io/) (October 2024- October 2025), Lecturer @ Heifei University of Technology
