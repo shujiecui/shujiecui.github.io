@@ -36,10 +36,10 @@ redirect_from:
 - <sub>Dongkun Hou (2023-), Monash University
 
 ### Graduated PhD Students
-- <sub>Min Tang (2022-2025), Post-Doc at Hong Kong
-- <sub>[Dandan Yuan](https://www.cwi.nl/en/people/dandan-yuan/) (2019-2023), Scientific staff at CWI, Netherlands
-- <sub>[Qifan Wang](https://www.durham.ac.uk/staff/qifan-wang2/) (2019-2023), Post-Doc at Durham University, UK
-- <sub>[Jianli Bai](https://scholar.google.com/citations?user=Vrd-ux8AAAAJ&hl=en) (2019-2023), Post-doc at SMU, Singapore
+- <sub>Min Tang (2022-2025, co-supervised with Zhe Jin, Shiuan-ni Liang, and Teresa Wang from Monash University), Post-Doc at Hong Kong
+- <sub>[Dandan Yuan](https://www.cwi.nl/en/people/dandan-yuan/) (2019-2023, co-supervised with Giovanni Russello and Steven Galbraith from the University of Auckland), Scientific staff at CWI, Netherlands
+- <sub>[Qifan Wang](https://www.durham.ac.uk/staff/qifan-wang2/) (2019-2023, co-supervised with Giovanni Russello and Steven Galbraith from the University of Auckland), Post-Doc at Durham University, UK
+- <sub>[Jianli Bai](https://scholar.google.com/citations?user=Vrd-ux8AAAAJ&hl=en, co-supervised with Giovanni Russello and Steven Galbraith from the University of Auckland) (2019-2023), Post-doc at SMU, Singapore
 
 ### Visitors
 - <sub>[Hui Zhang](https://beauty9882.github.io/) (October 2024- October 2025), Lecturer @ Heifei University of Technology
