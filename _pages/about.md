@@ -37,7 +37,7 @@ redirect_from:
 
 ### Graduated PhD Students
 - <sub>Min Tang (2022-2025), Post-Doc at Hong Kong
-- <sub>[Dandan Yuan](https://www.cwi.nl/en/people/dandan-yuan/) (2019-2023), Scientist staff at CWI, Neitherland
+- <sub>[Dandan Yuan](https://www.cwi.nl/en/people/dandan-yuan/) (2019-2023), Scientific staff at CWI, Netherlands
 - <sub>[Qifan Wang](https://www.durham.ac.uk/staff/qifan-wang2/) (2019-2023), Post-Doc at Durham University, UK
 - <sub>[Jianli Bai](https://scholar.google.com/citations?user=Vrd-ux8AAAAJ&hl=en) (2019-2023), Post-doc at SMU, Singapore
 
