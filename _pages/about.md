@@ -21,16 +21,10 @@ redirect_from:
 <sub> Please email me your CV, transcript, research statement, and English test score.</sub>
 
 ### News!
+- <sub>Our paper "Secure Division-free Decision Tree Training and Inference via Function Secret Sharing" has been accepted by TDSC 2026! Congratulations to Anxiao Song!
 - <sub>Our paper "Less is More: Geometric Unlearning for LLMs with Minimal Data Disclosure" has been accepted by ICML 2026! Congratulations to Chenchen Tan!
 - <sub>Our paper "GumSwap: Griefing-Free Universal Multi-Party Atomic Swaps" has been accepted by ICDCS 2026! Congratulations to Dongkun Hou!
-- <sub>Our paper "Wisdom is Knowing What not to Say: Hallucination-Free LLMs Unlearning via Attention Shifting" has been accepted by NeurIPS 2025! Congratulations to Chenchen Tan!
-- <sub>Our paper "XGT: Fast and Secure Decision Tree Training and Inference on GPUs" has been accepted by TDSC! Congratulations to Qifan Wang!
-- <sub>Our paper "Guard-GBDT: Efficient Privacy-Preserving Approximated GBDT Training on Vertical Dataset" has been accepted by RAID'25! Congratulations to Anxao Song again!
-- <sub>Our paper "Private Learning for Vertical Decision Trees: A Secure, Accurate, and Fast Realization" has been accepted by TDSC! Congratulations to Anxao Song (my visitor from Xidian)!
-- <sub>Our paper "Privacy Risks of LLM-Empowered Recommender Systems: An Inversion Attack Perspective" has been accepted by Recsys‘2025. Congratulations to Yubo (my postgraduate student）and Min Tang!
-- <sub>Our paper "CHIFRAUD: A Long-term Web Text Dataset for Chinese Fraud Detection" obtained the Best Paper Award for Social Impact at COLING 2025! Big Congratulations to Min Tang!
-- <sub>Our paper "CHIFRAUD: A Long-term Web Text Dataset for Chinese Fraud Detection" has been accepted by COLING‘2025. Congratulations to Min Tang again!
-- <sub>Our paper "Searchable Encryption for Conjunctive Queries with Extended Forward and Backward Privacy" has been accepted by PoPETs/PETs25! 
+
 
 ### PhD Students
 - <sub>Huu Nguyen (2026-), Monash University
@@ -41,10 +35,14 @@ redirect_from:
 - <sub>Xinghao Li (2023-), Monash University
 - <sub>Dongkun Hou (2023-), Monash University
 - <sub>Min Tang (2022-2025), Monash University Malaysia (co-supervised with [Dr. Zhe Jin](https://www.monash.edu.my/it/staff/academic/dr-jin-zhe) and [Dr. Liang Shiuan-Ni](https://www.monash.edu.my/engineering/about-us/all-staff/dr.-liang-shiuan-ni))
-- <sub>Dandan Yuan (2019-2023), The Univerisity of Auckland (co-supervised with [Prof Giovanni Russello](https://www.linkedin.com/in/giovanni-russello-218ab614/?originalSubdomain=nz))
-- <sub>Qifan Wang (2019-2023), The Univerisity of Auckland (co-supervised with Giovanni Russello)
-- <sub>Jianli Bai (2019-2023), The Univerisity of Auckland (co-supervised with Giovanni Russello)
-</sub> 
+- <sub>[Dandan Yuan](https://www.cwi.nl/en/people/dandan-yuan/) (2019-2023), The University of Auckland (co-supervised with [Prof Giovanni Russello](https://www.linkedin.com/in/giovanni-russello-218ab614/?originalSubdomain=nz))
+- <sub>[Qifan Wang](https://www.durham.ac.uk/staff/qifan-wang2/) (2019-2023), The University of Auckland (co-supervised with Giovanni Russello)
+- <sub>[Jianli Bai](https://scholar.google.com/citations?user=Vrd-ux8AAAAJ&hl=en) (2019-2023), The University of Auckland (co-supervised with Giovanni Russello)
+</sub>
+
+### Visitors
+- <sub>[Hui Zhang](https://beauty9882.github.io/) (October 2024- October 2025), Lecturer @ Heifei University of Technology
+- <sub>[Anxiao Song](https://anxiaosong.github.io/Profile/en/ ) (May 2024- May 2025), Lecturer @ City University of Macau
   
 ### Teaching
 - <sub>Lecturer & CE, FIT5163-Introductionn to Cryptography for Cynersecurity
