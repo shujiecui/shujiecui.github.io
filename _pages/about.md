@@ -25,6 +25,11 @@ redirect_from:
 - <sub>Our paper "Less is More: Geometric Unlearning for LLMs with Minimal Data Disclosure" has been accepted by ICML 2026! Congratulations to Chenchen Tan!
 - <sub>Our paper "GumSwap: Griefing-Free Universal Multi-Party Atomic Swaps" has been accepted by ICDCS 2026! Congratulations to Dongkun Hou!
 
+### Awards
+- <sub> 2025 Dean's Award for Education Excellence
+- <sub> 2025 Software Systems and Cybersecurity (SSC) Department Early Career Academic Award
+- <sub> Best Social Impact Paper Award from COLING 2025
+- <sub> Best Journal Paper Award from the Women in RecSys 2025 
 
 ### Current PhD Students
 - <sub>Huu Nguyen (2026-), Monash University
