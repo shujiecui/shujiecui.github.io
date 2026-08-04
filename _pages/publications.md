@@ -9,6 +9,7 @@ author_profile: true
 
 The full list can be found from my [google scholar](https://scholar.google.com/citations?user=EYVNbx8AAAAJ&hl=en) or [DBLP](https://dblp.org/pid/144/6258.html)
 
+2026
 - <sub>[ICML 2026] Chenchen Tan, Xinghao Li, Shujie Cui, Youyang Qu, Cunjian Chen, Longxiang Gao. "Less is More: Geometric Unlearning for LLMs with Minimal Data Disclosure". https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EYVNbx8AAAAJ&sortby=pubdate&citation_for_view=EYVNbx8AAAAJ:e5wmG9Sq2KIC <br/>
 [pdf](http://shujiecui.github.io/files/ICML2026.pdf)
 
@@ -19,6 +20,7 @@ Volume 63, Issue 4, 2026, 104607, ISSN 0306-4573, https://doi.org/10.1016/j.ipm.
 - <sub>[TETCI 2026] Xinghao Li, Chi Liu, Youyang Qu, Shujie Cui, Cunjian Chen, Xingliang Yuan, Zongyuan Ge, and Longxiang Gao "Navigating Unlearning in Medical AI: A Framework for Diabetic Retinopathy Classification," in IEEE Transactions on Emerging Topics in Computational Intelligence, doi: 10.1109/TETCI.2025.3641713.<br/>
 [pdf](http://shujiecui.github.io/files/TETCI2026.pdf)
   
+2025
 - <sub>[TIFS 2025] Wenhao Wang, Shujie Cui, Hui Cui, Jiabao Qiu, Shuguang Yuan, Xiaojie Zhu, Jing Yu, Chi Chen, and Xun Yi. "An Unbiased and Robust Privacy-Preserving Fingerprinting Scheme for Relational Databases," in IEEE Transactions on Information Forensics and Security, vol. 21, pp. 135-150, 2026, doi: 10.1109/TIFS.2025.3642579.<br/>
 [pdf](http://shujiecui.github.io/files/TIFS2025.pdf)
   
@@ -39,7 +41,8 @@ Volume 63, Issue 4, 2026, 104607, ISSN 0306-4573, https://doi.org/10.1016/j.ipm.
   
 - <sub>[COLING 2025] Min Tang, Lixin Zou, Zhe Jin, ShuJie Cui, Shiuan Ni Liang, and Weiqing Wang. 2025. CHIFRAUD: A Long-term Web Text Dataset for Chinese Fraud Detection. In Proceedings of the 31st International Conference on Computational Linguistics, pages 5962–5974, Abu Dhabi, UAE. Association for Computational Linguistics.<br/>
   [pdf](http://shujiecui.github.io/files/coling25.pdf)
-  
+
+2024
 - <sub>[TrustCom/BigDataSE 2024] **GTree: GPU-Friendly Privacy-preserving Decision Tree Training and Inference** <br/>
    Qifan Wang, Shujie Cui, Lei Zhou, Ye Dong, Jianli Bai,  Yun Sing Koh, Giovanni Russello<br/>
    The 23rd IEEE International Conference On Trust, Security And Privacy In Computing And Communications/12th IEEE International Conference On Big Data Science And Engineering <br/>
@@ -65,6 +68,7 @@ Volume 63, Issue 4, 2026, 104607, ISSN 0306-4573, https://doi.org/10.1016/j.ipm.
     Proceedings on Privacy Enhancing Technologies<br/>
    [pdf](https://eprint.iacr.org/2021/1585)
 
+2023
 - <sub>[IEEE Blockchain 2023] **Fault-tolerant Verifiable Encrypted Search on Blockchain** <br/>
     Xuan Chen, Shujie Cui<br/>
     2023 IEEE International Conference on Blockchain (Blockchain)<br/>
@@ -95,6 +99,7 @@ Volume 63, Issue 4, 2026, 104607, ISSN 0306-4573, https://doi.org/10.1016/j.ipm.
     Proceedings of the 39th Annual Computer Security Applications Conference <br/>
    [pdf]()
 
+2022
 - <sub>[AsiaCCS 2022] **EnclaveTree: Privacy-preserving Data Stream Training and Inference Using TEE** <br/>
    Qifan Wang, Shujie Cui, Lei Zhou, Ocean Wu, Yonghua Zhu, Giovanni Russello <br/>
    The 17th ACM ASIA Conference on Computer and Communications Security (Acceptance rate 18.5%) <br/>
@@ -109,7 +114,8 @@ Volume 63, Issue 4, 2026, 104607, ISSN 0306-4573, https://doi.org/10.1016/j.ipm.
    Dandan Yuan, Shujie Cui, and Giovanni Russello <br/>
    The 7th IEEE European Symposium on Security and Privacy <br/>
    [pdf](http://shujiecui.github.io/files/euroS&P.pdf)
-   
+
+Before 2022
 - <sub> [TOPS] **Privacy-preserving Dynamic Symmetric Searchable Encryption with Controllable Leakage** <br/>
    Shujie Cui, Xiangfu Song, Muhammad Rizwan Asghar, Steven D. Galbraith, and Giovanni Russello<br/>
    ACM Transactions on Privacy and Security  <br/>
