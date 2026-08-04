@@ -10,6 +10,14 @@ author_profile: true
 The full list can be found on my [google scholar](https://scholar.google.com/citations?user=EYVNbx8AAAAJ&hl=en) or [DBLP](https://dblp.org/pid/144/6258.html)
 
 2026
+- <sub>[Esorics 2026] Dongkun Hou, Ying-Teng Chen, **Shujie Cui**, Tsz Hon Yuen, Joseph K Liu, Jiangshan Yu, "HedgeSwap: Universal Hedged Atomic Swaps Against Griefing Attacks". [pdf] (https://eprint.iacr.org/2026/1252.pdf)
+  
+- <sub>[ICDCS 2026] Dongkun Hou, Yuanzhe Zhang, **Shujie Cui**, Tsz Hon Yuen, Joseph K Liu, Jiangshan Yu, "GumSwap: Griefing-Free Universal Multi-Party Atomic Swaps". [pdf] (https://eprint.iacr.org/2026/1253.pdf)
+  
+- <sub>[TSC 2026] Cong Zuo, Bingjing Wang, Jianghua Liu, **Shujie Cui**, Jun Shao, Huaxiong Wang, Liehuang Zhu, Giovanni Russello, "Toward Reliable and Secure Cloud Services With Fault-Tolerant Searchable Encryption". [pdf] (http://shujiecui.github.io/files/TSC2026.pdf)
+  
+- <sub>[TDSC 2026] Anxiao Song, **Shujie Cui**, Ke Cheng, Jianli Bai, Qifan Wang, Shangqi Lai, Giovanni Russello, Yulong Shen, "FSS-DT: Secure Division-free Decision Tree Training and Inference via Function Secret Sharing". [pdf] (http://shujiecui.github.io/files/TDSC2026.pdf)
+  
 - <sub>[ICML 2026] Chenchen Tan, Xinghao Li, **Shujie Cui**, Youyang Qu, Cunjian Chen, Longxiang Gao. "Less is More: Geometric Unlearning for LLMs with Minimal Data Disclosure". [pdf](http://shujiecui.github.io/files/ICML2026.pdf)
 
 - <sub>[IPM 2026] Min Tang, Lixin Zou, **Shujie Cui**, Weiqing Wang, Zhe Jin, Chengliang Li, Shiuan-Ni Liang. "Q-value guided Text-to-SQL generation: Structured reasoning meets efficient inference exploration", Information Processing & Management 2026. [pdf](http://shujiecui.github.io/files/IPM2026.pdf)
