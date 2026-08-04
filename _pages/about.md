@@ -21,11 +21,11 @@ redirect_from:
 <sub> Please email me your CV, transcript, research statement, and English test score.</sub>
 
 ### News!
-- <sub>Our paper "Plug-and-Play Identity: Generative Pseudo-Identities for Privacy-Preserving Face Recognition" has been accepted by ACM MM 2026! Congratulations to Hui Zhang!
-- <sub>Our paper "HedgeSwap: Universal Hedged Atomic Swaps Against Griefing Attack" has been accepted by Esorics 2026! Congratulations to Dongkun Hou again!
-- <sub>Our paper "Secure Division-free Decision Tree Training and Inference via Function Secret Sharing" has been accepted by TDSC 2026! Congratulations to Anxiao Song!
-- <sub>Our paper "Less is More: Geometric Unlearning for LLMs with Minimal Data Disclosure" has been accepted by ICML 2026! Congratulations to Chenchen Tan!
-- <sub>Our paper "GumSwap: Griefing-Free Universal Multi-Party Atomic Swaps" has been accepted by ICDCS 2026! Congratulations to Dongkun Hou!
+- <sub>Our paper "Plug-and-Play Identity: Generative Pseudo-Identities for Privacy-Preserving Face Recognition" has been accepted by ACM MM 2026 (CORE A* and CCF A)! Congratulations to Hui Zhang!
+- <sub>Our paper "HedgeSwap: Universal Hedged Atomic Swaps Against Griefing Attack" has been accepted by Esorics 2026 (CORE A and CCF B)! Congratulations to Dongkun Hou again!
+- <sub>Our paper "Secure Division-free Decision Tree Training and Inference via Function Secret Sharing" has been accepted by TDSC 2026 (CORE A and CCF A)! Congratulations to Anxiao Song!
+- <sub>Our paper "Less is More: Geometric Unlearning for LLMs with Minimal Data Disclosure" has been accepted by ICML 2026 (CORE A* and CCF A)! Congratulations to Chenchen Tan!
+- <sub>Our paper "GumSwap: Griefing-Free Universal Multi-Party Atomic Swaps" has been accepted by ICDCS 2026 (CORE A and CCF B)! Congratulations to Dongkun Hou!
 
 ### Awards
 - <sub> 2025 Dean's Award for Education Excellence
