@@ -28,6 +28,7 @@ redirect_from:
 - <sub>Our paper "GumSwap: Griefing-Free Universal Multi-Party Atomic Swaps" has been accepted by ICDCS 2026 (CORE A and CCF B)! Congratulations to Dongkun Hou!
 
 ### Awards
+- <sub> Provsec 2026 Best Paper Award
 - <sub> 2025 Dean's Award for Education Excellence
 - <sub> 2025 Software Systems and Cybersecurity (SSC) Department Early Career Academic Award
 - <sub> Best Social Impact Paper Award from COLING 2025
