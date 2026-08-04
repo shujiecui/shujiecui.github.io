@@ -10,9 +10,9 @@ author_profile: true
 The full list can be found on my [google scholar](https://scholar.google.com/citations?user=EYVNbx8AAAAJ&hl=en) or [DBLP](https://dblp.org/pid/144/6258.html)
 
 2026
-- <sub>[Esorics 2026] Dongkun Hou, Ying-Teng Chen, **Shujie Cui**, Tsz Hon Yuen, Joseph K Liu, Jiangshan Yu, "HedgeSwap: Universal Hedged Atomic Swaps Against Griefing Attacks". [pdf](https://eprint.iacr.org/2026/1252.pdf)
+- <sub>[Esorics 2026] Dongkun Hou, Ying-Teng Chen, **Shujie Cui**, Tsz Hon Yuen, Joseph K Liu, Jiangshan Yu, "HedgeSwap: Universal Hedged Atomic Swaps Against Griefing Attacks". [pdf](http://shujiecui.github.io/files/Esorics.pdf))
   
-- <sub>[ICDCS 2026] Dongkun Hou, Yuanzhe Zhang, **Shujie Cui**, Tsz Hon Yuen, Joseph K Liu, Jiangshan Yu, "GumSwap: Griefing-Free Universal Multi-Party Atomic Swaps". [pdf](https://eprint.iacr.org/2026/1253](http://shujiecui.github.io/files/ICDCS.pdf)
+- <sub>[ICDCS 2026] Dongkun Hou, Yuanzhe Zhang, **Shujie Cui**, Tsz Hon Yuen, Joseph K Liu, Jiangshan Yu, "GumSwap: Griefing-Free Universal Multi-Party Atomic Swaps". [pdf](http://shujiecui.github.io/files/ICDCS.pdf)
   
 - <sub>[TSC 2026] Cong Zuo, Bingjing Wang, Jianghua Liu, **Shujie Cui**, Jun Shao, Huaxiong Wang, Liehuang Zhu, Giovanni Russello, "Toward Reliable and Secure Cloud Services With Fault-Tolerant Searchable Encryption". [pdf](http://shujiecui.github.io/files/TSC2026.pdf)
   
