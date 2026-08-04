@@ -10,18 +10,18 @@ author_profile: true
 The full list can be found from my [google scholar](https://scholar.google.com/citations?user=EYVNbx8AAAAJ&hl=en) or [DBLP](https://dblp.org/pid/144/6258.html)
 
 2026
-- <sub>[ICML 2026] Chenchen Tan, Xinghao Li, Shujie Cui, Youyang Qu, Cunjian Chen, Longxiang Gao. "Less is More: Geometric Unlearning for LLMs with Minimal Data Disclosure". https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EYVNbx8AAAAJ&sortby=pubdate&citation_for_view=EYVNbx8AAAAJ:e5wmG9Sq2KIC
+- <sub>[ICML 2026] Chenchen Tan, Xinghao Li, Shujie Cui, Youyang Qu, Cunjian Chen, Longxiang Gao. "Less is More: Geometric Unlearning for LLMs with Minimal Data Disclosure". 
 [pdf](http://shujiecui.github.io/files/ICML2026.pdf)
 
 - <sub>[IPM 2026] Min Tang, Lixin Zou, Shujie Cui, Weiqing Wang, Zhe Jin, Chengliang Li, Shiuan-Ni Liang. "Q-value guided Text-to-SQL generation: Structured reasoning meets efficient inference exploration", Information Processing & Management,
 Volume 63, Issue 4, 2026, 104607, ISSN 0306-4573, https://doi.org/10.1016/j.ipm.2025.104607. 
 [pdf](http://shujiecui.github.io/files/IPM2026.pdf)
   
-- <sub>[TETCI 2026] Xinghao Li, Chi Liu, Youyang Qu, Shujie Cui, Cunjian Chen, Xingliang Yuan, Zongyuan Ge, and Longxiang Gao "Navigating Unlearning in Medical AI: A Framework for Diabetic Retinopathy Classification," in IEEE Transactions on Emerging Topics in Computational Intelligence, doi: 10.1109/TETCI.2025.3641713.<br/>
+- <sub>[TETCI 2026] Xinghao Li, Chi Liu, Youyang Qu, Shujie Cui, Cunjian Chen, Xingliang Yuan, Zongyuan Ge, and Longxiang Gao "Navigating Unlearning in Medical AI: A Framework for Diabetic Retinopathy Classification," in IEEE Transactions on Emerging Topics in Computational Intelligence, doi: 10.1109/TETCI.2025.3641713. 
 [pdf](http://shujiecui.github.io/files/TETCI2026.pdf)
   
 2025
-- <sub>[TIFS 2025] Wenhao Wang, Shujie Cui, Hui Cui, Jiabao Qiu, Shuguang Yuan, Xiaojie Zhu, Jing Yu, Chi Chen, and Xun Yi. "An Unbiased and Robust Privacy-Preserving Fingerprinting Scheme for Relational Databases," in IEEE Transactions on Information Forensics and Security, vol. 21, pp. 135-150, 2026, doi: 10.1109/TIFS.2025.3642579.<br/>
+- <sub>[TIFS 2025] Wenhao Wang, Shujie Cui, Hui Cui, Jiabao Qiu, Shuguang Yuan, Xiaojie Zhu, Jing Yu, Chi Chen, and Xun Yi. "An Unbiased and Robust Privacy-Preserving Fingerprinting Scheme for Relational Databases," in IEEE Transactions on Information Forensics and Security, vol. 21, pp. 135-150, 2026, doi: 10.1109/TIFS.2025.3642579. 
 [pdf](http://shujiecui.github.io/files/TIFS2025.pdf)
   
 - <sub>[RecSys 2025] Yubo Wang, Min Tang, Nuo Shen, Shujie Cui, and Weiqing Wang. 2025. Privacy Risks of LLM-Empowered Recommender Systems: An Inversion Attack Perspective. In Proceedings of the Nineteenth ACM Conference on Recommender Systems (RecSys '25). Association for Computing Machinery, New York, NY, USA, 812–821. https://doi.org/10.1145/3705328.3748158<br/>
