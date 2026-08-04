@@ -10,9 +10,9 @@ author_profile: true
 The full list can be found on my [google scholar](https://scholar.google.com/citations?user=EYVNbx8AAAAJ&hl=en) or [DBLP](https://dblp.org/pid/144/6258.html)
 
 2026
-- <sub>[Esorics 2026] Dongkun Hou, Ying-Teng Chen, **Shujie Cui**, Tsz Hon Yuen, Joseph K Liu, Jiangshan Yu, "HedgeSwap: Universal Hedged Atomic Swaps Against Griefing Attacks". [pdf](http://shujiecui.github.io/files/Esorics.pdf))
+- <sub>[Esorics 2026] Dongkun Hou, Ying-Teng Chen, **Shujie Cui**, Tsz Hon Yuen, Joseph K Liu, Jiangshan Yu, "HedgeSwap: Universal Hedged Atomic Swaps Against Griefing Attacks". [pdf](http://shujiecui.github.io/files/Esorics2026.pdf))
   
-- <sub>[ICDCS 2026] Dongkun Hou, Yuanzhe Zhang, **Shujie Cui**, Tsz Hon Yuen, Joseph K Liu, Jiangshan Yu, "GumSwap: Griefing-Free Universal Multi-Party Atomic Swaps". [pdf](http://shujiecui.github.io/files/ICDCS.pdf)
+- <sub>[ICDCS 2026] Dongkun Hou, Yuanzhe Zhang, **Shujie Cui**, Tsz Hon Yuen, Joseph K Liu, Jiangshan Yu, "GumSwap: Griefing-Free Universal Multi-Party Atomic Swaps". [pdf](http://shujiecui.github.io/files/ICDCS2026.pdf)
   
 - <sub>[TSC 2026] Cong Zuo, Bingjing Wang, Jianghua Liu, **Shujie Cui**, Jun Shao, Huaxiong Wang, Liehuang Zhu, Giovanni Russello, "Toward Reliable and Secure Cloud Services With Fault-Tolerant Searchable Encryption". [pdf](http://shujiecui.github.io/files/TSC2026.pdf)
   
@@ -22,14 +22,14 @@ The full list can be found on my [google scholar](https://scholar.google.com/cit
 
 - <sub>[IPM 2026] Min Tang, Lixin Zou, **Shujie Cui**, Weiqing Wang, Zhe Jin, Chengliang Li, Shiuan-Ni Liang. "Q-value guided Text-to-SQL generation: Structured reasoning meets efficient inference exploration", Information Processing & Management 2026. [pdf](http://shujiecui.github.io/files/IPM2026.pdf)
   
-- <sub>[TETCI 2026] Xinghao Li, Chi Liu, Youyang Qu, **Shujie Cui**, Cunjian Chen, Xingliang Yuan, Zongyuan Ge, and Longxiang Gao "Navigating Unlearning in Medical AI: A Framework for Diabetic Retinopathy Classification," in IEEE Transactions on Emerging Topics in Computational Intelligence 2026. [pdf](http://shujiecui.github.io/files/TETI2026.pdf)
+- <sub>[TETCI 2026] Xinghao Li, Chi Liu, Youyang Qu, **Shujie Cui**, Cunjian Chen, Xingliang Yuan, Zongyuan Ge, and Longxiang Gao "Navigating Unlearning in Medical AI: A Framework for Diabetic Retinopathy Classification," in IEEE Transactions on Emerging Topics in Computational Intelligence 2026. [pdf](http://shujiecui.github.io/files/TECI2026.pdf)
   
 2025
 - <sub>[TIFS 2025] Wenhao Wang, **Shujie Cui**, Hui Cui, Jiabao Qiu, Shuguang Yuan, Xiaojie Zhu, Jing Yu, Chi Chen, and Xun Yi. "An Unbiased and Robust Privacy-Preserving Fingerprinting Scheme for Relational Databases," in IEEE Transactions on Information Forensics and Security 2026. [pdf](http://shujiecui.github.io/files/TIFS2025.pdf)
   
 - <sub>[RecSys 2025] Yubo Wang, Min Tang, Nuo Shen, **Shujie Cui**, and Weiqing Wang. 2025. Privacy Risks of LLM-Empowered Recommender Systems: An Inversion Attack Perspective. In Proceedings of the Nineteenth ACM Conference on Recommender Systems (RecSys '25). [pdf](http://shujiecui.github.io/files/recsys25.pdf)
     
-- <sub>[NeurIPS 2025] Tan, Chenchen, Youyang Qu, Xinghao Li, Hui Zhang, **Shujie Cui**, Cunjian Chen, and Longxiang Gao. "Wisdom is Knowing What not to Say: Hallucination-Free LLMs Unlearning via Attention Shifting." [pdf](http://shujiecui.github.io/files/Neurips25.pdf)
+- <sub>[NeurIPS 2025] Tan, Chenchen, Youyang Qu, Xinghao Li, Hui Zhang, **Shujie Cui**, Cunjian Chen, and Longxiang Gao. "Wisdom is Knowing What not to Say: Hallucination-Free LLMs Unlearning via Attention Shifting." [pdf](http://shujiecui.github.io/files/NeurIPS25.pdf)
   
 - <sub>[TDSC 2025] Qifan Wang, **Shujie Cui**, Lei Zhou, Ye Dong, Jianli Bai, Yun Sing Koh, and Giovanni Russello. "XGT: Fast and Secure Decision Tree Training and Inference on GPUs," in IEEE Transactions on Dependable and Secure Computing 2025 [pdf](http://shujiecui.github.io/files/TDSC25.pdf)
   
