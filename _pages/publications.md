@@ -26,10 +26,10 @@ Volume 63, Issue 4, 2026, 104607, ISSN 0306-4573, https://doi.org/10.1016/j.ipm.
 [pdf](http://shujiecui.github.io/files/recsys25.pdf)
     
 - <sub>[NeurIPS 2025] Tan, Chenchen, Youyang Qu, Xinghao Li, Hui Zhang, Shujie Cui, Cunjian Chen, and Longxiang Gao. "Wisdom is Knowing What not to Say: Hallucination-Free LLMs Unlearning via Attention Shifting." arXiv preprint arXiv:2510.17210 (2025).<br/>
-- [pdf](http://shujiecui.github.io/files/Neurips25.pdf)
+[pdf](http://shujiecui.github.io/files/Neurips25.pdf)
   
 - <sub>[TDSC 2025] Qifan Wang, Shujie Cui, Lei Zhou, Ye Dong, Jianli Bai, Yun Sing Koh, and Giovanni Russello. "XGT: Fast and Secure Decision Tree Training and Inference on GPUs," in IEEE Transactions on Dependable and Secure Computing, vol. 22, no. 6, pp. 7479-7494, Nov.-Dec. 2025, doi: 10.1109/TDSC.2025.3597394.<br/>
-- [pdf](http://shujiecui.github.io/files/TDSC25.pdf)
+[pdf](http://shujiecui.github.io/files/TDSC25.pdf)
   
 - <sub>[RAID 2025] Anxiao Song, Shujie Cui, Jianli Bai, Ke Cheng, Yulong Shen, and Giovanni Russello. "Guard-GBDT: Efficient Privacy-Preserving Approximated GBDT Training on Vertical Dataset," 2025 28th International Symposium on Research in Attacks, Intrusions and Defenses (RAID), Gold Coast, Australia, 2025, pp. 741-756, doi: 10.1109/RAID67961.2025.00018.<br/>
 [pdf](http://shujiecui.github.io/files/raid25.pdf)
