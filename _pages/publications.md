@@ -10,7 +10,7 @@ author_profile: true
 The full list can be found on my [google scholar](https://scholar.google.com/citations?user=EYVNbx8AAAAJ&hl=en) or [DBLP](https://dblp.org/pid/144/6258.html)
 
 2026
-- <sub>[Esorics 2026] Dongkun Hou, Ying-Teng Chen, **Shujie Cui**, Tsz Hon Yuen, Joseph K Liu, Jiangshan Yu, "HedgeSwap: Universal Hedged Atomic Swaps Against Griefing Attacks". [pdf](http://shujiecui.github.io/files/Esorics2026.pdf))
+- <sub>[Esorics 2026] Dongkun Hou, Ying-Teng Chen, **Shujie Cui**, Tsz Hon Yuen, Joseph K Liu, Jiangshan Yu, "HedgeSwap: Universal Hedged Atomic Swaps Against Griefing Attacks". [pdf](http://shujiecui.github.io/files/Esorics2026.pdf)
   
 - <sub>[ICDCS 2026] Dongkun Hou, Yuanzhe Zhang, **Shujie Cui**, Tsz Hon Yuen, Joseph K Liu, Jiangshan Yu, "GumSwap: Griefing-Free Universal Multi-Party Atomic Swaps". [pdf](http://shujiecui.github.io/files/ICDCS2026.pdf)
   
