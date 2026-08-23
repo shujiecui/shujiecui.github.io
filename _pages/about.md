@@ -21,6 +21,8 @@ redirect_from:
 <sub> Please email me your CV, transcript, research statement, and English test score.</sub>
 
 ### News!
+- <sub> My PhD student Chenchen Tan gets the 2026 Dean’s Award for Research Excellence by a Graduate Research Student! Congratulations again to Chenchen Tan!
+- <sub> Our paper ["Denoising-Aware Inversion: Revealing Privacy Risks in Noise-Protected Text Embeddings"](https://arxiv.org/abs/2608.18610) has been accepted by ICDM 2025 (CORE A*)! Congratulations to Yubo Wang!
 - <sub>Our paper "Plug-and-Play Identity: Generative Pseudo-Identities for Privacy-Preserving Face Recognition" has been accepted by ACM MM 2026 (CORE A* and CCF A)! Congratulations to Hui Zhang!
 - <sub>Our paper "HedgeSwap: Universal Hedged Atomic Swaps Against Griefing Attack" has been accepted by Esorics 2026 (CORE A and CCF B)! Congratulations to Dongkun Hou again!
 - <sub>Our paper "Secure Division-free Decision Tree Training and Inference via Function Secret Sharing" has been accepted by TDSC 2026 (CORE A and CCF A)! Congratulations to Anxiao Song!
