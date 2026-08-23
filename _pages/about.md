@@ -24,10 +24,10 @@ redirect_from:
 - <sub> My PhD student Chenchen Tan gets the 2026 Dean’s Award for Research Excellence by a Graduate Research Student! Congratulations again to Chenchen Tan!
 - <sub> Our paper ["Denoising-Aware Inversion: Revealing Privacy Risks in Noise-Protected Text Embeddings"](https://arxiv.org/abs/2608.18610) has been accepted by ICDM 2025 (CORE A*)! Congratulations to Yubo Wang!
 - <sub>Our paper "Plug-and-Play Identity: Generative Pseudo-Identities for Privacy-Preserving Face Recognition" has been accepted by ACM MM 2026 (CORE A* and CCF A)! Congratulations to Hui Zhang!
-- <sub>Our paper "HedgeSwap: Universal Hedged Atomic Swaps Against Griefing Attack" has been accepted by Esorics 2026 (CORE A and CCF B)! Congratulations to Dongkun Hou again!
-- <sub>Our paper "Secure Division-free Decision Tree Training and Inference via Function Secret Sharing" has been accepted by TDSC 2026 (CORE A and CCF A)! Congratulations to Anxiao Song!
-- <sub>Our paper "Less is More: Geometric Unlearning for LLMs with Minimal Data Disclosure" has been accepted by ICML 2026 (CORE A* and CCF A)! Congratulations to Chenchen Tan!
-- <sub>Our paper "GumSwap: Griefing-Free Universal Multi-Party Atomic Swaps" has been accepted by ICDCS 2026 (CORE A and CCF B)! Congratulations to Dongkun Hou!
+- <sub>Our paper ["HedgeSwap: Universal Hedged Atomic Swaps Against Griefing Attack"](https://eprint.iacr.org/2026/1252) has been accepted by Esorics 2026 (CORE A and CCF B)! Congratulations to Dongkun Hou again!
+- <sub>Our paper ["FSS-DT: Secure Division-free Decision Tree Training and Inference via Function Secret Sharing"](https://ieeexplore.ieee.org/abstract/document/11533606) has been accepted by TDSC 2026 (CORE A and CCF A)! Congratulations to Anxiao Song!
+- <sub>Our paper ["Less is More: Geometric Unlearning for LLMs with Minimal Data Disclosure"](https://arxiv.org/abs/2605.01735) has been accepted by ICML 2026 (CORE A* and CCF A)! Congratulations to Chenchen Tan!
+- <sub>Our paper ["GumSwap: Griefing-Free Universal Multi-Party Atomic Swaps"](https://ieeexplore.ieee.org/abstract/document/11619126) has been accepted by ICDCS 2026 (CORE A and CCF B)! Congratulations to Dongkun Hou!
 
 ### Awards
 - <sub> Provsec 2026 Best Paper Award
