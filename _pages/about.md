@@ -34,7 +34,8 @@ redirect_from:
 - <sub> 2025 Dean's Award for Education Excellence
 - <sub> 2025 Software Systems and Cybersecurity (SSC) Department Early Career Academic Award
 - <sub> Best Social Impact Paper Award from COLING 2025
-- <sub> Best Journal Paper Award from the Women in RecSys 2025 
+- <sub> Best Journal Paper Award from the Women in RecSys 2025
+- <sub> 2018 Winner of Best Student Published Paper Award from The University of Auckland 
 
 ### Current PhD Students
 - <sub>Huu Nguyen (2026-), Monash University
