@@ -14,7 +14,13 @@ The full list can be found on my [Google Scholar](https://scholar.google.com/cit
 
 - <sub>[ICDM 2026, CORE A*, CCF B] Wang, Yubo, **Shujie Cui**, James Bailey, Hongzhi Yin, Wenyu Liang, Min Tang, Shiyue Qin, and Weiqing Wang. "Denoising-Aware Inversion: Revealing Privacy Risks in Noise-Protected Text Embeddings." arXiv preprint arXiv:2608.18610 (2026).[pdf](https://arxiv.org/pdf/2608.18610)
 
-- <sub>[AsiaCrypt 2026, CORE A, CCF B]
+- <sub>[AsiaCrypt 2026, CORE A, CCF B] Xinyu Zhang, Weiping Ji, Tsz Hon Yuen, Ron Steinfeld, Joseph K. Liu, **Shujie Cui**. Verifiable Weighted Secret Sharing based on Chinese Remainder Theorem.
+
+- <sub> [Radiology: Artificial Intelligence 2026, JCR Q1, IF 20.1] Anish Narayan, Chun Goh, Frederick Mariajoseph, **Shujie Cui**, Enes Makalic, and Justin Moore. Comparative Performance of Federated and Centralized Learning for Brain Tumor Classification and Segmentation.
+  
+- <sub>[ACM MM 2026, CORE A*] Hui Zhang, Aming Wu, **Shujie Cui**, Xingbo Dong, Chenchen Tan, Xiao Liu, Frank Jiang, Zhe Jin, Xuejun Li. Plug-and-Play Identity: Generative Pseudo-Identities for Privacy-Preserving Face Recognition.
+  
+- <sub> [TNNLS 2026, JCR Q1] Tan, Chenchen, Xinghao Li, Youyang Qu, Cunjian Xhen, **Shujie Cui**, Longxiang Gao. Logits-Level Balanced Machine Unlearning for LLM-Based Recommendation System. IEEE Transactions on Neural Networks and Learning Systems. 2026 Feb 10.
 
 - <sub>[TIFS 2026, CORE A, CCF A] Hu, Manyue, Cong Zuo, **Shujie Cui**, Shangqi Lai, Lei Xu, Licheng Wang, and Liehuang Zhu. "Tramy: A Multi-Client Dynamic Searchable Symmetric Encryption with Malicious Servers Tracking for Conjunctive Queries." IEEE Transactions on Information Forensics and Security (2026). [pdf](https://ieeexplore.ieee.org/abstract/document/11695262)
 
