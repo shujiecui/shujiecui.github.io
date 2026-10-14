@@ -10,6 +10,14 @@ author_profile: true
 The full list can be found on my [Google Scholar](https://scholar.google.com/citations?user=EYVNbx8AAAAJ&hl=en) or [DBLP](https://dblp.org/pid/144/6258.html)
 
 2026
+- <sub>[ACM CCS 2026, CORE A*, CCF A] Wang, Wenhao, **Shujie Cui**, Hui Cui, and Xingliang Yuan. "Rethinking the Security of DP-SGD: A Corrected Analysis of Differentially Private Machine Learning." arXiv preprint arXiv:2605.15648 (2026). [pdf](https://arxiv.org/pdf/2605.15648)
+
+- <sub>[ICDM 2026, CORE A*, CCF B] Wang, Yubo, **Shujie Cui**, James Bailey, Hongzhi Yin, Wenyu Liang, Min Tang, Shiyue Qin, and Weiqing Wang. "Denoising-Aware Inversion: Revealing Privacy Risks in Noise-Protected Text Embeddings." arXiv preprint arXiv:2608.18610 (2026).[pdf](https://arxiv.org/pdf/2608.18610)
+
+- <sub>[AsiaCrypt 2026, CORE A, CCF B]
+
+- <sub>[TIFS 2026, CORE A, CCF A] Hu, Manyue, Cong Zuo, **Shujie Cui**, Shangqi Lai, Lei Xu, Licheng Wang, and Liehuang Zhu. "Tramy: A Multi-Client Dynamic Searchable Symmetric Encryption with Malicious Servers Tracking for Conjunctive Queries." IEEE Transactions on Information Forensics and Security (2026). [pdf](https://ieeexplore.ieee.org/abstract/document/11695262)
+
 - <sub>[Esorics 2026, CORE A, CCF B] Dongkun Hou, Ying-Teng Chen, **Shujie Cui**, Tsz Hon Yuen, Joseph K Liu, Jiangshan Yu, "HedgeSwap: Universal Hedged Atomic Swaps Against Griefing Attacks". [pdf](http://shujiecui.github.io/files/Esorics2026.pdf)
   
 - <sub>[ICDCS 2026, CORE A, CCF B] Dongkun Hou, Yuanzhe Zhang, **Shujie Cui**, Tsz Hon Yuen, Joseph K Liu, Jiangshan Yu, "GumSwap: Griefing-Free Universal Multi-Party Atomic Swaps". [pdf](http://shujiecui.github.io/files/ICDCS2026.pdf)
