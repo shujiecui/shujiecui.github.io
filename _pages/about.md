@@ -74,8 +74,9 @@ I welcome enquiries from motivated prospective PhD students and researchers inte
 ## Latest News
 
 <ul class="home-list">
+  <li>I received the 2026 Graduate Research Supervisor Award from the Department of Software Systems and Cybersecurity (SSC) at Monash University. </li>
   <li>Our paper <a href="https://arxiv.org/abs/2605.15648">Rethinking the Security of DP-SGD: A Corrected Analysis of Differentially Private Machine Learning</a> was accepted at <strong>ACM CCS 2026</strong> (CORE A*). Congratulations to Wenhao Wang!</li>
-  <li>PhD student <strong>Chenchen Tan</strong> received the <strong>2026 Dean’s Award for Research Excellence by a Graduate Research Student</strong>. Congratulations, Chenchen!</li>
+  <li>My PhD student <strong>Chenchen Tan</strong> received the <strong>2026 Dean’s Award for Research Excellence by a Graduate Research Student</strong>. Congratulations, Chenchen!</li>
   <li>Our paper <a href="https://arxiv.org/abs/2608.18610">Denoising-Aware Inversion: Revealing Privacy Risks in Noise-Protected Text Embeddings</a> was accepted at <strong>ICDM 2026</strong> (CORE A*). Congratulations to Yubo Wang!</li>
   <li>Our paper <strong>Plug-and-Play Identity: Generative Pseudo-Identities for Privacy-Preserving Face Recognition</strong> was accepted at <strong>ACM MM 2026</strong> (CORE A*, CCF A). Congratulations to Hui Zhang!</li>
   <li>Our paper <a href="https://eprint.iacr.org/2026/1252">HedgeSwap: Universal Hedged Atomic Swaps Against Griefing Attack</a> was accepted at <strong>ESORICS 2026</strong> (CORE A, CCF B). Congratulations to Dongkun Hou!</li>
