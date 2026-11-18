@@ -10,17 +10,15 @@ author_profile: true
 The full list can be found on my [Google Scholar](https://scholar.google.com/citations?user=EYVNbx8AAAAJ&hl=en) or [DBLP](https://dblp.org/pid/144/6258.html)
 
 2026
-- <sub><span style="
+- <sub>
+<span style="
   background-color: #d4edda;
   color: #155724;
   padding: 3px 8px;
   border-radius: 4px;
   font-size: 12px;
   font-weight: bold;
-">
-  [ACM CCS 2026, CORE A*, CCF A]
-</span>
-Wang, Wenhao, **Shujie Cui**, Hui Cui, and Xingliang Yuan. "Rethinking the Security of DP-SGD: A Corrected Analysis of Differentially Private Machine Learning." arXiv preprint arXiv:2605.15648 (2026). [pdf](https://arxiv.org/pdf/2605.15648)
+">[ACM CCS 2026, CORE A*, CCF A] </span> Wang, Wenhao, **Shujie Cui**, Hui Cui, and Xingliang Yuan. "Rethinking the Security of DP-SGD: A Corrected Analysis of Differentially Private Machine Learning." arXiv preprint arXiv:2605.15648 (2026). [pdf](https://arxiv.org/pdf/2605.15648)
 
 - <sub>[ICDM 2026, CORE A*, CCF B] Wang, Yubo, **Shujie Cui**, James Bailey, Hongzhi Yin, Wenyu Liang, Min Tang, Shiyue Qin, and Weiqing Wang. "Denoising-Aware Inversion: Revealing Privacy Risks in Noise-Protected Text Embeddings." arXiv preprint arXiv:2608.18610 (2026).[pdf](https://arxiv.org/pdf/2608.18610)
 
