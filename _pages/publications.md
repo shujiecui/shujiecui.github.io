@@ -10,7 +10,7 @@ author_profile: true
 The full list can be found on my [Google Scholar](https://scholar.google.com/citations?user=EYVNbx8AAAAJ&hl=en) or [DBLP](https://dblp.org/pid/144/6258.html)
 
 2026
-- <sub>[<span style="
+- <sub><span style="
   background-color: #d4edda;
   color: #155724;
   padding: 3px 8px;
