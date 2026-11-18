@@ -9,7 +9,7 @@ author_profile: true
 
 <style>
 .pub-badge { display: inline-block; padding: 2px 7px; margin-right: 4px; border-radius: 4px; font-size: 0.78em; font-weight: 600; line-height: 1.5; vertical-align: baseline; }
-.pub-badge.ccf-a { background: #e4f3e8; color: #216338; }
+.pub-badge.ccf-a { background: #2563eb; color: #ffffff; }
 .pub-badge.ccf-b { background: #ffe0ae; color: #874600; }
 .pub-badge.no-ccf { background: #f0e9fa; color: #67419a; }
 </style>
