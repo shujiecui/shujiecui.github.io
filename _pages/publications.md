@@ -98,7 +98,7 @@ The full list can be found on my [Google Scholar](https://scholar.google.com/cit
 
 - <span class="pub-badge no-ccf">Euro S&P 2022</span> Dandan Yuan, **Shujie Cui**, and Giovanni Russello, **We Can Make Mistakes: Fault-tolerant Forward Private Verifiable Dynamic Searchable Symmetric Encryption**. [pdf](http://shujiecui.github.io/files/euroS&P.pdf)
 
-Before 2022
+**Before 2022**
 - <span class="pub-badge no-ccf">TOPS</span> **Shujie Cui**, Xiangfu Song, Muhammad Rizwan Asghar, Steven D. Galbraith, and Giovanni Russello, **Privacy-preserving Dynamic Symmetric Searchable Encryption with Controllable Leakage**.
    [pdf](http://shujiecui.github.io/files/TOPS.pdf)
  
@@ -113,17 +113,11 @@ Before 2022
  - <span class="pub-badge no-ccf">ICCCN 2018</span> **Shujie Cui**, Sana Belguith, Pramodya De Alwis, Muhammad Rizwan Asghar, and Giovanni Russello, **Preserving access pattern privacy in SGX-assisted encrypted search**. 
    [pdf](http://shujiecui.github.io/files/SGX-assisted.pdf) 
    
-  - <span class="pub-badge no-ccf">ACM SAC 2018</span> Sana Belguith, **Shujie Cui**, Muhammad Rizwan Asghar, and Giovanni Russello, **Secure Publish and Subscribe Systems with Efficient Revocation**. 
-   [pdf](http://shujiecui.github.io/files/revocation.pdf)
-   
  - <span class="pub-badge no-ccf">LCN 2017</span> **Shujie Cui**, Muhammad Rizwan Asghar, and Giovanni Russello, **Privacy-Preserving Content Delivery Networks**. [pdf](http://shujiecui.github.io/files/LCN.pdf)
 
  - <span class="pub-badge no-ccf">ACISP 2017</span> **Shujie Cui**, Muhammad Rizwan Asghar, Steven D. Galbraith, and Giovanni Russello, **Secure and practical searchable encryption: A position paper**. [pdf](http://shujiecui.github.io/files/acisp.pdf)
    
   - <span class="pub-badge no-ccf">CLOUD 2017</span> **Shujie Cui**, Muhammad Rizwan Asghar, Steven D. Galbraith, and Giovanni Russello, **P-McDb: Privacy-Preserving Search Using Multi-Cloud Encrypted Databases**. [pdf](http://shujiecui.github.io/files/Pmcdb.pdf)  
-   
-  - <span class="pub-badge no-ccf">FPS 2017</span> **Shujie Cui**, Muhammad Rizwan Asghar, Steven D. Galbraith, and Giovanni Russello, **ObliviousDB: Practical and Efficient Searchable Encryption with Controllable Leakage**. 
-   [pdf](http://shujiecui.github.io/files/ObliviousDB.pdf)  
    
   - <span class="pub-badge no-ccf">ISPEC 2014</span> **Shujie Cui**, Johann Großschädl, Zhe Liu, and Qiuliang Xu, **High-speed elliptic curve cryptography on the NVIDIA GT200 graphics processing unit** 
   
