@@ -44,9 +44,7 @@ redirect_from:
 
 <div class="home-intro" markdown="1">
 
-I am **Shujie Cui**, a **Senior Lecturer** in the [Faculty of Information Technology](https://www.monash.edu/it) at [Monash University](https://www.monash.edu/), Australia.
-
-I received my PhD from the [University of Auckland](https://www.auckland.ac.nz/en.html) in 2019. Before joining Monash, I was a postdoctoral researcher in the [Large-Scale Data & Systems (LSDS) group](https://lsds.doc.ic.ac.uk/) at Imperial College London.
+I am **Shujie Cui**, a **Senior Lecturer** in the [Faculty of Information Technology](https://www.monash.edu/it) at [Monash University](https://www.monash.edu/), Australia. I received my PhD from the [University of Auckland](https://www.auckland.ac.nz/en.html) in 2019. Before joining Monash, I was a postdoctoral researcher in the [Large-Scale Data & Systems (LSDS) group](https://lsds.doc.ic.ac.uk/) at Imperial College London.
 
 </div>
 
@@ -88,6 +86,7 @@ I welcome enquiries from motivated prospective PhD students and researchers inte
 ## Awards & Recognition
 
 <ul class="home-list compact-list award-list">
+  <li><strong>2026</strong> — Software Systems and Cybersecurity (SSC) Department Graduate Research Supervisor Award</li>
   <li><strong>2026</strong> — ProvSec Best Paper Award</li>
   <li><strong>2025</strong> — Dean's Award for Education Excellence</li>
   <li><strong>2025</strong> — Software Systems and Cybersecurity (SSC) Department Early Career Academic Award</li>
